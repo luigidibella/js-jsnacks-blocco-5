@@ -22,7 +22,7 @@ const zucchinis = [
     {
       variety: "Eight Ball",
       weight: "237",
-      diameter: "8"
+      length: "8"
     },
     {
       variety: "Grey",
@@ -32,12 +32,12 @@ const zucchinis = [
     {
       variety: "Ronde de Nice",
       weight: "189",
-      diameter: "10"
+      length: "10"
     },
     {
       variety: "Tondo di Piacenza",
       weight: "171",
-      diameter: "9"
+      length: "9"
     },
     {
       variety: "Tromboncino",
